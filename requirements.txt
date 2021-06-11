@@ -1,2 +1,6 @@
 Django>=2.1.0,<2.2.0
 djangorestframework>=3.8.2,<3.9.0
+# below only for Linting tool
+# “Linting” means running a basic quality tool against your code.
+# The tool will check your code syntax and provide instructions on how to clean it.
+flake8>=3.6.0,<3.7.0
